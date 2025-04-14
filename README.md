@@ -1,5 +1,4 @@
 # 💫 About Me:
-🔭 I’m currently working on https://github.com/AdeshOak/SoccerIQ-frontend<br>
 
 🔭 I’m currently working on [SoccerIQ](https://soccer-iq-eta.vercel.app/) <br>
 
