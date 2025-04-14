@@ -2,7 +2,7 @@
 
 🔭 I’m currently working on [SoccerIQ](https://soccer-iq-eta.vercel.app/) <br>
 
-👨‍💻 All of my projects are available on my [Portfolio](https://adesh-portfolio.vercel.app/) website. <br>
+👨‍💻 All of my projects are available on my [Portfolio website.](https://adesh-portfolio.vercel.app/) <br>
 
 📫 How to reach me **adeshoak22@gmail.com** <br>
 
